@@ -36,6 +36,6 @@ public class Main {
             sum += nums[i];
             i++;
         } while (i < size);
-        System.out.println("While sum: " + sum);
+        System.out.println("Do while sum: " + sum);
     }
 }
